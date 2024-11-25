@@ -1,4 +1,4 @@
-# Data Set - CAT x DOG 
+# Data Set - CAT x DOG
 
 Atividade Proposta: 
 
